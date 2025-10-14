@@ -21,7 +21,11 @@ A curated list of references that inspire this playground:
 - Generative Media: Diffusion model papers, community tutorials
 
 ---
+# First try
 
+Details [here](FIRST-FASTAPI.md)
+
+---
 ## 🤝 Contributing
 Pull requests are welcome! Because this is an informal space, guidelines are deliberately light:
 
